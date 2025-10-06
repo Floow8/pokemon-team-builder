@@ -6,9 +6,10 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: 'raw.githubusercontent.com',
-        pathname: '/PokeAPI/sprites/**',
+        pathname: '/Yarkis01/TyraDex/**',
       },
     ],
+    unoptimized: true,
   },
 };
 
